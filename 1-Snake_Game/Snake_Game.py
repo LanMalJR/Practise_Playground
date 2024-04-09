@@ -5,6 +5,7 @@ import random
 Rows = 25
 Colms = 25
 Title_Size = 25
+l
 
 WINDOW_WIDTH = Title_Size * Colms
 WINDOW_HEIGHT = Title_Size * Rows
